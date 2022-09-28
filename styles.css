@@ -1,1 +1,34 @@
 /* Write your CSS here! */
+
+   #myColor {
+      color: brown;
+   }
+
+
+   .coolerColor {
+      color: blue;
+   }
+
+
+
+   h3 {
+      background-color: yellowgreen;
+   }
+
+   div {
+      padding: 80px;
+
+   }
+
+
+
+   article {
+      margin: 200px;
+   }
+
+
+   #newLineUp {
+      padding-left: 500px;
+
+   }
+
