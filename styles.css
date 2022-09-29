@@ -1,1 +1,49 @@
 /* Write your CSS here! */
+
+   #myColor {
+      color: brown;
+   }
+
+
+   .coolerColor {
+      color: blue;
+   }
+
+.funParagraph{
+    color: green;
+}
+
+
+   h3 {
+      background-color: yellowgreen;
+   }
+
+   div {
+      padding: 80px;
+
+   }
+
+
+
+   article {
+      margin: 200px;
+   }
+
+
+   #newLineUp {
+      padding-left: 500px;
+
+   }
+
+
+   body {
+    margin: 8px;
+   }
+
+   #mainHeading {
+    color: red;
+   }
+
+   #testP {
+    background-color: green;
+   }
