@@ -35,3 +35,11 @@
 
    }
 
+
+   body {
+    margin: 8px;
+   }
+
+   #mainHeading {
+    color: red;
+   }
